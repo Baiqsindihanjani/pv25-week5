@@ -6,9 +6,9 @@
  ### 3. Tampilan semua data terisi
  ![Cuplikan layar 2025-04-09 220736](https://github.com/user-attachments/assets/abe4b983-1d50-451f-b88b-bf39937cb58d)
  ### 4. Tampilan validasi nama
- a. Minimal 5 huruf
+ #### a. Minimal 5 huruf
  ![Cuplikan layar 2025-04-09 220747](https://github.com/user-attachments/assets/7e8b050e-75dc-44e9-91f1-7b2129db30f5)
- b. Nama hanya boleh berupa huruf
+ #### b. Nama hanya boleh berupa huruf
  ![Cuplikan layar 2025-04-09 224348](https://github.com/user-attachments/assets/934c02cf-f2f2-4b04-8330-9f6655a13342)
  ### 5. Tampilan validasi email
  ![Cuplikan layar 2025-04-09 220817](https://github.com/user-attachments/assets/d6a51480-0c2b-4cb1-9bcb-4ead0bbe8aa6)
